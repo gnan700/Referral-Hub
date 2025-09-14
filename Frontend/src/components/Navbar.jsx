@@ -106,7 +106,7 @@ const Navbar = () => {
           >
             <i className="fas fa-briefcase"></i>
           </div>
-          <span className="fw-bold text-primary">ReferHub</span>
+          <span className="fw-bold text-primary">Referral-Hub</span>
         </Link>
         <button
           className="navbar-toggler border-0"
